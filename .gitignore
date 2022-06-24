@@ -1,0 +1,9 @@
+# Logs
+Logs
+*.log 
+
+node_modules
+dist
+dist-ssr
+*.local
+
